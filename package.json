@@ -1,0 +1,22 @@
+{
+  "name": "image-upload-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "5.1.0",
+    "multer": "2.0.0",
+    "nanoid": "5.1.5",
+    "sharp": "0.34.2"
+  },
+  "volta": {
+    "node": "22.16.0"
+  }
+}
